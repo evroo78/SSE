@@ -1,1 +1,1 @@
-band diagrams for Zenner Diod
+band diagrams for tunnel diode
