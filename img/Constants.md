@@ -10,6 +10,6 @@
 Елементарний заряд $q$, $\textnormal{Кл}$| $1,6\cdot {10}^{-19}$
 Маса електрона $m_0$, $\textnormal{кг}$|$0,91\cdot {10}^{-30}$
 Швідкість світла у вакуумі $c$, $\textnormal{см} \cdot \textnormal{с}^{-1}$| $3\cdot {10}^{10}$
-Електрична стала $\varepsilon_0$, $\textnormal{Ф}\cdot \textnormal{см}^{-1}$| $8,85\cdot {10}^{-15}$
+Електрична стала $\varepsilon_0$, $\textnormal{Ф}\cdot \textnormal{см}^{-1}$| $8,85\cdot {10}^{-14}$
 
 [↑ Повернутися до змісту](https://github.com/evroo78/SSE/edit/main/img/Constants.md#Зміст)
